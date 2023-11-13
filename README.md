@@ -8,7 +8,7 @@ Development, Telecoms, Renewable Energy, Cybersecurity & Surveillance Systems, a
 
 * We have done multiple projects ranging from the field of Devops , Web apps Penetration Testing .
 
-* We are currently brushing up my skills to Upgrade my knowledge on React, Redux, Python and MangoDB .
+* We are actively enhancing our staff's expertise to stay at the forefront of technologies, with a particular focus on upgrading our knowledge in React, Redux, Python, MongoDB, Rails and Node.js .
 
 * We are willing to work on free-lance projects, Remote Work and we love to contribute to open source projects 💡.
 
